@@ -1,3 +1,3 @@
 # FaceDetection
 
-Machine Learning model 01
+Machine Learning model 02
