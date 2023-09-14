@@ -120,6 +120,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+FaceDetection/
+data/
+aug_data/
 .env
 .venv
 env/
